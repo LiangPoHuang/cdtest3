@@ -30,3 +30,4 @@ jobs:
         dockerfile: Dockerfile
         always_pull: true
         tags: latest
+
